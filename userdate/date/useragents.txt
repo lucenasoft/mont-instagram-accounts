@@ -1,0 +1,6 @@
+Mozilla/5.0 (Linux; Android 11; M2010J19CG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.58 Mobile Safari/537.36
+Mozilla/5.0 (iPod; CPU iPhone OS 12_0 like macOS) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/12.0 Mobile/14A5335d Safari/602.1.50
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 123.0.0.24.115 (iPhone10,2; iOS 12_4_1; en_US; en-US; scale=2.61; 1080x1920; 188362626)
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 154.0.0.25.120 (iPhone10,6; iOS 14_0; en_US; en-US; scale=3.00; 1125x2436; 237443006)
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 181.1.0.27.117 (iPhone10,6; iOS 13_5_1; en_US; en-US; scale=3.00; 1125x2436; 282277724) NW/1
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 178.0.0.22.119 (iPhone10,6; iOS 14_4_2; ko-Kore_KR; ko-KR; scale=3.00; 1125x2436; 276719015)
