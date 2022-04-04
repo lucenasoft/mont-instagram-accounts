@@ -83,7 +83,7 @@ def main():
                 sleep(1)
                 senha = driver.find_element_by_xpath('//*[@id="loginForm"]/div[1]/div[4]/div/label/input')
                 senha.click()
-                senha.send_keys('04042002')
+                senha.send_keys('INPUT') #AQUI SERA ADICIONADO A SENHA PARA A SUA CONTA.
                 sleep(1)
                 driver.find_element_by_xpath('//button[contains(.,"Entrar")]').click()
                 sleep(5)
@@ -92,10 +92,9 @@ def main():
                 cancel()
                 notificacao()
                 sleep(1)
-                #biografia_gen()
-                #post_perfil()
+                biografia_gen()
+                post_perfil()
                 post_feed()
-                #post_story()
                 logout()
                 sleep(5)
                 prontas += 1
@@ -137,7 +136,7 @@ def biografia_gen():
         sleep(1)
         biografia.send_keys(Keys.CONTROL+'A')
         sleep(2)
-        biografia.send_keys('Meu brasil, meu brasil, como oh amo!')
+        biografia.send_keys('BIOGRAFIA') #BIOGRAFIA SERA ADICIONADA AQUI.
         sleep(1)
         driver.find_element_by_xpath('//*[@id="react-root"]/section/main/div/article/div/div[2]/h1')
         driver.execute_script('window.scrollTo(0,500)')
@@ -206,7 +205,7 @@ def post_feed():
             print('Não foi possível postar')
             pass
 
-def post_story():
+def post_story(): #EM ATUALIZAÇÃO PARA ADIÇÃO AINDA.
     #teste = driver.find_element_by_xpath().send_keys(Keys.CONTROL+Keys.SHIFT+'M')
     sleep(3)
     for imagens in range(0,postagens):
